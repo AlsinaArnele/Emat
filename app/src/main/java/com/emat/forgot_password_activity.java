@@ -4,21 +4,8 @@ package com.emat;
 import android.app.Activity;
 import android.os.Bundle;
 
-
-import android.view.View;
-import android.widget.ImageView;
-import android.widget.TextView;
-
 public class forgot_password_activity extends Activity {
 
-
-	private TextView time_ek2;
-	private View border_ek2;
-	private ImageView cap_ek2;
-	private View capacity_ek2;
-	private ImageView wifi_ek2;
-	private ImageView cellular_connection_ek2;
-	private View home_indicator_ek2;
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
